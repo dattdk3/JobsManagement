@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "882927411419",
+    "firebase_url": "https://jobproject-fa9d8-default-rtdb.firebaseio.com",
+    "project_id": "jobproject-fa9d8",
+    "storage_bucket": "jobproject-fa9d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882927411419:android:fe9c9ec4c4f5b63fcaacfe",
+        "android_client_info": {
+          "package_name": "com.anonymous.AppTestProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4wOaKBp9JS5gjDwSltqjtdfXSsSbsdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
